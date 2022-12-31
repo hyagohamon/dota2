@@ -1,0 +1,21 @@
+html, body {
+    background-image: url("src/img/bgofi.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    color: #fff;
+    background-attachment: fixed;
+
+}
+
+.bg {
+    background: #0f0f10;
+    filter: opacity(0.7%);
+}
+
+.search-hero {
+
+    text-align: center;
+
+}
+
+
